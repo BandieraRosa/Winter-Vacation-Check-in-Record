@@ -2,9 +2,9 @@
 
 今天在调试机器人时，准备开始开发RoboMaster比赛中的英雄机器人部署模式吊射功能。
 
-![image-20260205013824428](/home/bandiera/.config/Typora/typora-user-images/image-20260205013824428.png)
+![image-20260205013824428](./readme.assets/image-20260205013824428.png)
 
-![image-20260205013903230](/home/bandiera/.config/Typora/typora-user-images/image-20260205013903230.png)
+![image-20260205013903230](./readme.assets/image-20260205013903230.png)
 
 
 
@@ -143,8 +143,8 @@ Pitch: 0.395801 Time: 1.13869 Velocity: 13.8538
 
 提交：
 
-![image-20260205020516314](/home/bandiera/.config/Typora/typora-user-images/image-20260205020516314.png)
+![image-20260205020516314](./readme.assets/image-20260205020516314.png)
 
 由于仓库私有，故仅截图。
 
-![image-20260205020546149](/home/bandiera/.config/Typora/typora-user-images/image-20260205020546149.png)
+![image-20260205020546149](./readme.assets/image-20260205020546149.png)
